@@ -1,10 +1,10 @@
-## Synopsis
+#Snake in Canvas
 
-This is a html5/canvas implementation of the game Snake. Enjoy.
+This is a html5/canvas implementation of the game Snake.
 
-## Motivation
+## Working
 
-I`ve always loved the Snake games in Nokia mobile phones. This is a replica attempt.
+Now, the project is under **construction**, you gonna see some commit changes in a few days ;) 
 
 ## Installation
 
@@ -12,7 +12,7 @@ Just download the .html file and run it with your favorite browser!
 
 ## Contributors
 
-If you want, you can help  me make a REAL replica of the Nokia Snake game (with all the cozy graphics, and stuff). Just let me know your`e interested in doing it.
+Thanks to [Cesar Vargas](https://github.com/cesarvargas00) who made this snake-canvas game.
 
 ## License
 
