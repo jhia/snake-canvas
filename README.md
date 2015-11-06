@@ -8,7 +8,7 @@ Now, the project is under **construction**, you gonna see some commit changes in
 
 ## Installation
 
-Just download the .html file and run it with your favorite browser!
+Just download the `.html` file and run it with your favorite browser!
 
 ## Contributors
 
